@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+/app/__pycache__
+
+# Virtual environments (if created inside the project)
+/.venv/
+env/
+
+/.env
+.env
+

@@ -1,0 +1,61 @@
+{"input": "What is the name of the dental clinic?", "output": "BrightSmile Dental Clinic"}
+{"input": "What is the clinic's name?", "output": "BrightSmile Dental Clinic"}
+{"input": "What services does BrightSmile Dental Clinic offer?", "output": "Teeth Cleaning, Cavity Fillings, Root Canals, Dental Check-Ups, Teeth Whitening, Braces Consultation"}
+{"input": "List the services available at BrightSmile Dental Clinic.", "output": "Teeth Cleaning, Cavity Fillings, Root Canals, Dental Check-Ups, Teeth Whitening, Braces Consultation"}
+{"input": "What are the operating hours for BrightSmile Dental Clinic on weekdays?", "output": "Monday to Friday: 9:00 AM \u2013 5:00 PM"}
+{"input": "When is BrightSmile Dental Clinic open during the week?", "output": "Monday to Friday: 9:00 AM \u2013 5:00 PM"}
+{"input": "What are the Saturday hours for BrightSmile Dental Clinic?", "output": "Saturday: 10:00 AM \u2013 2:00 PM"}
+{"input": "Is BrightSmile Dental Clinic open on Sundays?", "output": "No, it is closed on Sundays."}
+{"input": "Where is BrightSmile Dental Clinic located?", "output": "123 Smile Street, Toothville, TX"}
+{"input": "What is the address of BrightSmile Dental Clinic?", "output": "123 Smile Street, Toothville, TX"}
+{"input": "What is the phone number for BrightSmile Dental Clinic?", "output": "(555) 123-4567"}
+{"input": "Can I contact BrightSmile Dental Clinic via email?", "output": "Yes, the email is contact@brightsmileclinic.com."}
+{"input": "Do they accept walk-in appointments at BrightSmile Dental Clinic?", "output": "Yes, they recommend booking in advance, but they do accept walk-ins if there's availability."}
+{"input": "How does BrightSmile Dental Clinic handle walk-in appointments?", "output": "They recommend booking in advance, but they do accept walk-ins if there's availability."}
+{"input": "Does BrightSmile Dental Clinic accept insurance?", "output": "Yes, they accept most major dental insurance plans."}
+{"input": "What should I do in case of a dental emergency?", "output": "Please call us immediately at (555) 123-4567. We prioritize emergency cases."}
+{"input": "Is teeth whitening at BrightSmile Dental Clinic safe?", "output": "Yes, our professional teeth whitening service is completely safe and effective."}
+{"input": "What type of dental emergencies does BrightSmile Dental Clinic prioritize?", "output": "They prioritize emergency cases."}
+{"input": "What is the purpose of teeth cleaning?", "output": "To remove plaque, tartar, and stains from teeth."}
+{"input": "Why do people get their teeth cleaned?", "output": "To remove plaque, tartar, and stains from teeth."}
+{"input": "Who typically performs teeth cleaning?", "output": "It is performed by a dental hygienist or dentist."}
+{"input": "How often should teeth cleaning be done?", "output": "Typically every 6 months."}
+{"input": "What is the procedure involved in teeth cleaning?", "output": "The procedure includes scaling to remove hardened tartar, polishing to smoothen teeth and remove surface stains, and optionally a fluoride treatment to strengthen enamel and help prevent cavities."}
+{"input": "What does the teeth cleaning procedure include?", "output": "Scaling, polishing, and optionally a fluoride treatment."}
+{"input": "How long does a teeth cleaning session usually take?", "output": "30\u201360 minutes."}
+{"input": "Is there any discomfort during teeth cleaning?", "output": "There is minimal discomfort, with mild sensitivity possible."}
+{"input": "What is the purpose of cavity fillings?", "output": "To restore decayed teeth and prevent further damage."}
+{"input": "Why are cavity fillings performed?", "output": "To restore decayed teeth and prevent further damage."}
+{"input": "Who performs cavity fillings?", "output": "Cavity fillings are performed by a dentist."}
+{"input": "What is the procedure for cavity fillings?", "output": "Local anesthesia is applied, the decayed portion is drilled out, and the space is filled with composite resin, amalgam, or other materials."}
+{"input": "What types of fillings are available?", "output": "The types of fillings include composite (tooth-colored), amalgam (metal), ceramic, and gold."}
+{"input": "How long does a cavity filling procedure take?", "output": "30\u201360 minutes."}
+{"input": "What kind of discomfort can be expected after cavity fillings?", "output": "There can be numbness during the procedure and minor sensitivity afterward."}
+{"input": "What is the purpose of a root canal?", "output": "To treat infected or inflamed tooth pulp to save a tooth."}
+{"input": "Why is a root canal performed?", "output": "To treat infected or inflamed tooth pulp to save a tooth."}
+{"input": "Who can perform a root canal?", "output": "A root canal can be performed by a dentist or endodontist."}
+{"input": "What does the procedure for a root canal entail?", "output": "The procedure involves using local anesthesia, removing the infected pulp, cleaning and shaping the canals, filling them with a biocompatible material, and usually placing a crown for protection."}
+{"input": "How long does a root canal procedure take?", "output": "1\u20132 hours and may require multiple visits."}
+{"input": "Is there any discomfort during a root canal?", "output": "Minimal discomfort occurs during the procedure due to anesthesia, but some soreness may be experienced afterward."}
+{"input": "What is the purpose of dental check-ups?", "output": "To monitor oral health and catch problems early."}
+{"input": "Why do people have dental check-ups?", "output": "To monitor oral health and catch problems early."}
+{"input": "Who performs dental check-ups?", "output": "Dental check-ups are performed by a dentist."}
+{"input": "How often should dental check-ups be scheduled?", "output": "Every 6 months."}
+{"input": "What is involved in a dental check-up?", "output": "The procedure includes a visual exam of teeth and gums, X-rays (annually or as needed), and discussion of any issues, habits, or concerns."}
+{"input": "What is the typical duration of a dental check-up?", "output": "15\u201330 minutes, longer if combined with cleaning."}
+{"input": "Is there any discomfort during a dental check-up?", "output": "There is none."}
+{"input": "What is the purpose of teeth whitening?", "output": "To lighten teeth and remove stains for a brighter smile."}
+{"input": "Why do people undergo teeth whitening?", "output": "To lighten teeth and remove stains for a brighter smile."}
+{"input": "Who performs teeth whitening?", "output": "Teeth whitening can be performed by a dentist (in-office) or done at home under supervision."}
+{"input": "What methods are used for teeth whitening?", "output": "Methods include in-office bleaching with high-concentration peroxide gel and sometimes laser/LED light, and take-home trays with custom-fitted mouthguards and whitening gel."}
+{"input": "How long does in-office teeth whitening take?", "output": "Approximately 1 hour."}
+{"input": "How long does take-home teeth whitening take?", "output": "It can take several days to weeks."}
+{"input": "What results can be expected from teeth whitening?", "output": "Noticeable improvement after 1 session, though it varies by stains."}
+{"input": "Is there any discomfort associated with teeth whitening?", "output": "Temporary sensitivity is common."}
+{"input": "What is the purpose of a braces consultation?", "output": "To evaluate and plan treatment for teeth alignment issues."}
+{"input": "Why do people have braces consultations?", "output": "To evaluate and plan treatment for teeth alignment issues."}
+{"input": "Who performs a braces consultation?", "output": "A braces consultation is performed by an orthodontist."}
+{"input": "What does the braces consultation procedure include?", "output": "A visual exam and x-rays or digital scans, discussion of bite issues, treatment options, and cost estimate."}
+{"input": "What treatment options are discussed during a braces consultation?", "output": "Treatment options include metal braces, ceramic braces, and clear aligners (e.g., Invisalign)."}
+{"input": "What is the typical duration of a braces consultation?", "output": "~30\u201360 minutes."}
+{"input": "What are the next steps after a braces consultation?", "output": "Molds/scans and scheduling of treatment."}
