@@ -4,7 +4,7 @@ A CLI chat bot, utilizing openai as its core, its capabilities include:
 2. Handles appointment booking (date, time, user name).
 3. Log the appointment details in a local CSV file.
 
-> **Note:** This project was developed on Windows. Issues arising from operating system differences may not be account for.
+> **Note:** This project was developed on Windows. Issues arising from operating system differences may not be accounted for.
 
 ## Setup & Run
 1. Clone the repository to your local machine
@@ -54,6 +54,7 @@ OPENAI_API_KEY=your_openai_api_key
 
 ## Approach and Design Choices
 
+My approach prioritizes performance, cost and user experience. The use of OpenAI for both Q&A generation and input interpretation increases accuracy and adaptability, while FAISS ensures scalability. The system is fully local, lightweight, and easy to extend.
 
 ### Data Extraction 
 - Text extracted from PDF using PyMuPDF
@@ -65,7 +66,7 @@ OPENAI_API_KEY=your_openai_api_key
 ### Vector Store
 - FAISS implementation for efficient similarity searches
 - Vector store created from JSONL file
-- Index saved locally for persistence, no need to recreate on each run
+- Index saved locally for persistence, no need to be recreated on each run
 - Can be updated when knowledge base changes
 
 ### RAG (Retrieval-Augmented Generation)
