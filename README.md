@@ -54,7 +54,7 @@ OPENAI_API_KEY=your_openai_api_key
 
 ## Approach and Design Choices
 
-My approach prioritizes performance, cost and user experience. The use of OpenAI for both Q&A generation and input interpretation increases accuracy and adaptability, while FAISS ensures scalability. The system is fully local, lightweight, and easy to extend.
+My approach prioritizes performance, cost and user experience. The use of OpenAI for both Q&A generation and input interpretation increases accuracy and adaptability, while FAISS ensures scalability. The system is fully local, lightweight, and extensible.
 
 ### Data Extraction 
 - Text extracted from PDF using PyMuPDF
